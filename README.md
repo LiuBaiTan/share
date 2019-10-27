@@ -112,7 +112,7 @@
 代码
 
     public class WythoffGame {
-    	public static void main(String[] args) {
+	    public static void main(String[] args) {
 	        double q = (Math.sqrt(5) + 1) / 2;
 	        int a;
 	        int b;
@@ -131,7 +131,7 @@
 	            else
 	                System.out.println("1");
 	        }
-    	}
-}
+    	    }
+	}
 
 
