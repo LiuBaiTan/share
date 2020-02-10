@@ -1,0 +1,482 @@
+https://blog.csdn.net/m0_37907797/article/details/103347579
+腾讯面试题：一条 sql 语句执行的很慢的原因有哪些？
+https://blog.csdn.net/csdnnews/article/details/103193692?utm_source=wx_miya
+致 Python 初学者们！
+https://blog.csdn.net/m0_37907797/article/details/103188294
+进程之间究竟有哪些通信方式？如何通信？ ---- 告别死记硬背
+https://blog.csdn.net/kebi007/article/details/102927209
+面试官：你连RESTful都不知道我怎么敢要你？
+https://blog.csdn.net/hanguofei/article/details/102987057
+python面试基础知识(一)
+https://blog.csdn.net/m0_37907797/article/details/103267435
+记一次手撕算法面试：字节跳动的面试官把我四连击了
+https://blog.csdn.net/m0_37609579/article/details/103108301
+程序员把地府后台管理系统做出来了，还有3.0版本！12月7号最新消息：已在开发中有github地址
+https://blog.csdn.net/qq_42813491/article/details/103117799
+nginx基础教程
+https://blog.csdn.net/qing_gee/article/details/103231927
+程序员一般通过什么途径接私活？
+https://blog.csdn.net/m0_37907797/article/details/102767860
+为什么你学不会递归？告别递归，谈谈我的经验
+https://blog.csdn.net/lantian_123/article/details/103172069
+10行代码写个"狗屁不通"文章生成器
+https://blog.csdn.net/qq_38613453/article/details/103077016
+推荐几款比较实用的工具和网站
+https://blog.csdn.net/kebi007/article/details/103059900
+程序员：我终于知道post和get的区别
+https://blog.csdn.net/qq_44543508/article/details/102651841
+小白如何学习java？
+https://blog.csdn.net/PY0312/article/details/101087356
+爬虫福利二 之 妹子图网MM批量下载
+https://blog.csdn.net/chenjianandiyi/article/details/103766263
+全网目前最全python例子（附源码）
+https://blog.csdn.net/ZuoYueLiang/article/details/103799951
+六年码农生涯的 2019 总结
+https://blog.csdn.net/weixin_44092679/article/details/103843096
+面试你能搞懂JVM了吗，快看看这20道JVM面试题(附答案)
+https://edu.csdn.net/course/detail/24756?utm_source=wx_miya
+21天搞定分布式Python网络爬虫
+https://edu.csdn.net/bundled/detail/77?utm_source=wx_miya
+推荐系统核心精讲
+https://blog.csdn.net/tototuzuoquan/article/details/78164731
+爬虫技术
+https://blog.csdn.net/knight_a/article/details/88958861
+java爬虫
+https://blog.csdn.net/Yu_Wei_123/article/details/69525247
+C#爬虫
+https://blog.csdn.net/j13sj13s/article/details/52059701
+爬虫系统简介
+https://blog.csdn.net/qq_41637554/article/details/80548242
+爬虫(一)网络爬虫/相关工具与知识
+https://blog.csdn.net/zm_21/article/details/28230781
+selenium java自动化测试
+https://edu.csdn.net/bundled/detail/100?utm_source=wx_miya
+Python自动化测试之Selenium3实战
+https://blog.csdn.net/wanglong12341/article/details/80814442
+Selenium Java Web 自动化实践总结
+ 
+ 
+ 
+ 
+ 
+ 
+教你用 python 制作一张五彩斑斓的黑
+https://blog.csdn.net/phenhorlin2/article/details/103510254
+专为程序员设计的数学课
+https://edu.csdn.net/combo/detail/1473?utm_source=wx_ganhuo
+python自动刷新12306抢票
+https://blog.csdn.net/qq_34158880/article/details/103602447
+Python3：matplotlib的基本demo(折线图，直方图，柱状图，饼图，散点图)
+https://blog.csdn.net/weixin_45492007/article/details/103653071
+使用python写的一个小系统
+https://blog.csdn.net/weixin_43713498/article/details/103643726
+Python实现手机号自动判断男女性别
+https://blog.csdn.net/qq_15687823/article/details/103645268
+python爬虫爬取“美团美食”汕头地区的所有店铺信息
+https://blog.csdn.net/qq_40511157/article/details/103641937
+21天搞定分布式Python网络爬虫
+https://edu.csdn.net/course/detail/24756?utm_source=wx_ganhuo
+Python纯技术————数据写入Excel
+https://blog.csdn.net/qq_35619526/article/details/103620236
+如何用 Python 实现超级玛丽的界面和状态机？
+https://blog.csdn.net/csdnnews/article/details/103659155
+为啥国人偏爱Mybatis，而老外喜欢Hibernate/JPA呢？
+https://blog.csdn.net/m0_37609579/article/details/102961765
+腾讯物联网操作系统正式开源，最小体积仅1.8 KB
+https://blog.csdn.net/Tencent_TEG/article/details/101043331
+Ｂ站收藏 6.1w+！GitHub 标星 3.9k+！这门神课拯救了我薄弱的计算机基础
+https://blog.csdn.net/u013486414/article/details/103457523
+人工智能经典算法及项目实战
+https://edu.csdn.net/huiyiCourse/detail/1114?utm_source=wx_ganhuo
+时至今日，NLP怎么还这么难！
+https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/103676080
+张钹：人工智能技术已进入第三代
+https://blog.csdn.net/r6Auo52bK/article/details/101088166
+Python自动化测试之Selenium3实战
+https://edu.csdn.net/bundled/detail/100?utm_source=wx_ganhuo
+送给单身猿们的表白神器
+https://blog.csdn.net/weixin_44560813/article/details/102956248
+面试官如何考察你的思维方式？
+https://blog.csdn.net/yangzhongblog/article/details/103154699
+尝试混搭，告别格子衫，这个GAN帮你展示真人高清混搭效果
+https://blog.csdn.net/qq_28168421/article/details/101043503
+Java子类和父类的初始化执行顺序
+https://blog.csdn.net/jiandabang/article/details/103649458
+小白都能看得懂的java虚拟机内存模型
+https://blog.csdn.net/qq_37141773/article/details/103138476
+史上最详细的IDEA优雅整合Maven+SSM框架（详细思路+附带源码）
+https://blog.csdn.net/qq_44543508/article/details/100192558
+6张拓扑图揭秘中心化交易所的5种行为, 原来中心化比你想象的重要！
+https://blog.csdn.net/Blockchain_lemon/article/details/101087959
+比特币原理详解
+https://blog.csdn.net/zcg_741454897/article/details/102796022
+6大思维模型, 揭秘硅谷高管如何做区块链应用决策
+https://blog.csdn.net/Blockchain_lemon/article/details/101043133
+MySQL数据库总结
+https://blog.csdn.net/weixin_43691058/article/details/103175678
+一次搞定各种数据库 SQL 执行计划
+https://blog.csdn.net/horses/article/details/103579177
+数据库优化 - SQL优化
+https://blog.csdn.net/jianzhang11/article/details/102867120
+史上最全的mysql基础教程
+https://blog.csdn.net/weixin_45108087/article/details/102766281
+《吊打面试官》系列-Redis基础知识
+https://blog.csdn.net/qq_35190492/article/details/102841400
+详述 Elasticsearch 通过范围条件查询索引数据的方法
+https://blog.csdn.net/qq_35246620/article/details/89040919
+国内30以下名校正教授大盘点，年少有为，谁会是下一个颜宁？
+https://blog.csdn.net/qq_28168421/article/details/101088426
+私藏的18黑科技网站，想找什么软件就找什么软件！！！
+https://blog.csdn.net/sinat_33921105/article/details/103307419
+防劝退！数据结构和算法难理解？可视化动画带你轻松透彻理解！
+https://blog.csdn.net/u013486414/article/details/103199260
+机器学习:3个知乎大神回答、5个新人常见问题和3个学习规划：https://blog.csdn.net/j2IaYU7Y/article/details/79825304
+机器视觉专栏：https://blog.csdn.net/oHanTanYanYing/column/info/15631
+机器视觉原理解析：https://blog.csdn.net/zc21463071/article/details/81231058
+机器视觉基础知识汇总：https://blog.csdn.net/leoaran/article/details/80914270
+一个完整机器学习项目流程总结：https://blog.csdn.net/huangfei711/article/details/79850989
+Scratch编程入门教案：https://blog.csdn.net/weixin_40897235/article/details/89206058
+基于SLAM的机器人的自主定位导航：https://blog.csdn.net/weixin_37251044/article/details/78515909
+Python3入门经典100例	https://blog.csdn.net/weixin_41084236/article/details/81564963	
+搭建 LEGO EV3 的 PyCharm Python 开发环境	https://blog.csdn.net/tq08g2z/article/details/83659827	
+Python函数参数定义	https://blog.csdn.net/u010852680/article/details/77848570	
+用Python给女友 准备个绝对甜蜜的七夕礼物	https://blog.csdn.net/cainiao_python/article/details/98697669	
+5天破10亿的哪吒，为啥这么火，Python来分析	https://blog.csdn.net/cainiao_python/article/details/98139777	
+用Python来预测双色球	https://blog.csdn.net/cainiao_python/article/details/97723335	
+Inception_V3原理及实现	https://blog.csdn.net/m0_37917271/article/details/82344711	
+用Python控制LEGO Wedo 2.0的电机	https://blog.csdn.net/tq08g2z/article/details/83659827
+CSDN微课商城快速搭建--项目实战  https://edu.csdn.net/huiyiCourse/detail/1044
+利用python语言编程控制LEGO EV3	https://blog.csdn.net/qq_41106517/article/details/82975355	
+未来智能 Python最新学习路线图	https://blog.csdn.net/PLhma/article/details/89675887	
+自动化测试-分层设计思想	https://blog.csdn.net/hujyhfwfh2/article/details/81055948	
+自动化测试如何做到分层	https://blog.csdn.net/zhusongziye/article/details/83903275	
+程序员易踩的 9 大坑！	https://blog.csdn.net/csdnnews/article/details/100088724	
+用Python实现一个小游戏	https://blog.csdn.net/linmo8256/article/details/79677678	
+手把手教你用python写游戏	https://blog.csdn.net/u010665216/article/details/79086160	
+用python实现2048小游戏	https://blog.csdn.net/weixin_42668123/article/details/82381568
+Java工程师求职面试准备	https://blog.csdn.net/dyhdengyahui/article/details/79731335
+Java面试笔试题大汇总(最全+详细答案)	https://blog.csdn.net/weixin_37948564/article/details/80475243
+温故而知新，重温 Java 7 的那些“新”特性	https://blog.csdn.net/qing_gee/article/details/97623924
+查看JAVA API以及JAVA源码的方法	https://blog.csdn.net/Applying/article/details/80575616
+Java学习路线	https://blog.csdn.net/Just_learn_more/article/details/91394528
+【深入理解Java原理】 JVM 内存区域	https://blog.csdn.net/wangming520liwei/article/details/78686724
+阿里云Redis开发规范	https://blog.csdn.net/glx490676405/article/details/79580748
+数据结构与算法常见笔试题	https://blog.csdn.net/u010273362/article/details/77920891
+关键路径详解	https://blog.csdn.net/qq_35644234/article/details/52664108
+字符串一样，但是equals为false？	https://blog.csdn.net/Baisitao_/article/details/92667122
+Java十大常用框架介绍	https://blog.csdn.net/qinzzjs47/article/details/82292100
+JAVA学习必须掌握的框架，不看后悔	https://blog.csdn.net/jackyrongvip/article/details/82148922
+最棒的 JavaScript 学习指南	https://blog.csdn.net/ejinxian/article/details/79227762
+职业规划-IT方向	https://blog.csdn.net/weixin_44135121/article/details/93226590
+让应届生拿到阿里 Offer 的Java面试题	https://blog.csdn.net/CSDNedu/article/details/100098334
+数据结构与算法常见笔试题	https://blog.csdn.net/u010273362/article/details/77920891
+以太坊学习笔记	https://blog.csdn.net/LUCKWXF/article/details/94736214
+Python3入门经典100例	https://blog.csdn.net/weixin_41084236/article/details/81564963
+以太坊工作原理	https://blog.csdn.net/LUCKWXF/article/details/95061570
+关键路径详解	https://blog.csdn.net/qq_35644234/article/details/52664108
+ROS入门教程(一)：https://blog.csdn.net/q_z_r_s/article/details/83721261
+ROS学习之路的整理：https://blog.csdn.net/zhanshen112/article/details/82792467
+ROS源码分析：https://blog.csdn.net/sukha/article/details/52454735
+阿里云RPA（机器人流程自动化）干货系列之七：编写第一个RPA应用（可视化模式）：https://yq.aliyun.com/articles/696414
+【RPA】机器人流程自动化（RPA）概念、原理与实践：https://blog.csdn.net/np4rHI455vg29y2/article/details/80035832
+Python函数参数定义	https://blog.csdn.net/u010852680/article/details/77848570
+搭建以太坊私链	https://blog.csdn.net/zhimingshangyan/article/details/82703746
+大数据学习路线图	https://blog.csdn.net/qq_38872310/article/details/79758426
+Java面试笔试题大汇总(最全+详细答案)	https://blog.csdn.net/weixin_37948564/article/details/80475243
+用Python给女友 准备个绝对甜蜜的七夕礼物	https://blog.csdn.net/cainiao_python/article/details/98697669
+Centos7 本地安装以太坊 Remix-ide	https://blog.csdn.net/LUCKWXF/article/details/95633329
+基于规则（AIML）的问答机器人	https://blog.csdn.net/qq_32284189/article/details/82107845
+温故而知新，重温 Java 7 的那些“新”特性	https://blog.csdn.net/qing_gee/article/details/97623924
+SQL简述	https://blog.csdn.net/lfdfhl/article/details/96707875
+白话讲排序系列	https://blog.csdn.net/u013384984/article/details/79496052
+5天破10亿的哪吒，为啥这么火，Python来分析	https://blog.csdn.net/cainiao_python/article/details/98139777
+盘点11个常用的区块链开发工具	https://blog.csdn.net/Blockchain_lemon/article/details/98553602
+数据库的基本操作	https://blog.csdn.net/lfdfhl/article/details/96709013
+查看JAVA API以及JAVA源码的方法	https://blog.csdn.net/Applying/article/details/80575616
+用Python来预测双色球	https://blog.csdn.net/cainiao_python/article/details/97723335
+基于检索的聊天机器人的实现	https://blog.csdn.net/Irving_zhang/article/details/78788929
+数据类型详解	https://blog.csdn.net/lfdfhl/article/details/96711983
+区块链100问	https://blog.csdn.net/zgf605506394/article/details/97621396
+Android Gradle 必备实用技巧：https://gitchat.csdn.net/activity/589fc870b38f84e02fa64883?utm_source=soAndroid
+面试技术点：https://blog.csdn.net/duoduo_11011/article/details/81143325
+机器学习/数据处理领域结果的评估度量：https://blog.csdn.net/lyxleft/article/details/84579319
+整理的最全 python常见面试题（基本必考）:https://blog.csdn.net/t8116189520/article/details/80165589
+Python
+ 
+Python3入门经典100例	
+https://blog.csdn.net/weixin_41084236/article/details/81564963	
+搭建 LEGO EV3 的 PyCharm Python 开发环境	
+https://blog.csdn.net/tq08g2z/article/details/83659827	
+Python函数参数定义	
+https://blog.csdn.net/u010852680/article/details/77848570	
+用Python给女友 准备个绝对甜蜜的七夕礼物	
+https://blog.csdn.net/cainiao_python/article/details/98697669	
+5天破10亿的哪吒，为啥这么火，Python来分析	
+https://blog.csdn.net/cainiao_python/article/details/98139777	
+用Python来预测双色球	
+https://blog.csdn.net/cainiao_python/article/details/97723335	
+Inception_V3原理及实现	
+https://blog.csdn.net/m0_37917271/article/details/82344711	
+用Python控制LEGO Wedo 2.0的电机	
+https://blog.csdn.net/tq08g2z/article/details/83659827
+CSDN微课商城快速搭建--项目实战	
+https://edu.csdn.net/huiyiCourse/detail/1044
+利用python语言编程控制LEGO EV3	
+https://blog.csdn.net/qq_41106517/article/details/82975355	
+未来智能 Python最新学习路线图	
+https://blog.csdn.net/PLhma/article/details/89675887	
+自动化测试-分层设计思想	
+https://blog.csdn.net/hujyhfwfh2/article/details/81055948	
+自动化测试如何做到分层	
+https://blog.csdn.net/zhusongziye/article/details/83903275	
+程序员易踩的 9 大坑！	
+https://blog.csdn.net/csdnnews/article/details/100088724	
+用Python实现一个小游戏	
+https://blog.csdn.net/linmo8256/article/details/79677678	
+手把手教你用python写游戏	
+https://blog.csdn.net/u010665216/article/details/79086160	
+用python实现2048小游戏	
+https://blog.csdn.net/weixin_42668123/article/details/82381568
+8分钟完成NodeJs爬虫	
+https://blog.csdn.net/lizhipeng123321/article/details/79804041
+Python截图文字识别工具	
+https://blog.csdn.net/qq_42992919/article/details/98059597
+我用 Python 爬了淘宝内衣店的数据	
+https://blog.csdn.net/qq_28168421/article/details/97993640
+Python网络爬虫基础篇	
+https://edu.csdn.net/course/detail/8662
+Java 从零开始学爬虫	
+https://blog.csdn.net/qq_33601179/article/details/80458668
+ 
+AI
+Android使用JNI生成.so文件并调用：https://blog.csdn.net/dream_caoyun/article/details/79495103
+利用百度AI开放平台进行本地图片通用文字识别：https://blog.csdn.net/qq_40197828/article/details/82812978
+这可能是最简单易懂的机器学习入门（小白必读）：https://blog.csdn.net/qq_28168421/article/details/81351321
+多分类学习的拆分策略：https://blog.csdn.net/u012679707/article/details/80527994
+机器学习概括：什么是机器学习，机器学习分类和基本用途：https://blog.csdn.net/u011626960/article/details/79349659
+机器学习:3个知乎大神回答、5个新人常见问题和3个学习规划：https://blog.csdn.net/j2IaYU7Y/article/details/79825304
+机器视觉专栏：https://blog.csdn.net/oHanTanYanYing/column/info/15631
+机器视觉原理解析：https://blog.csdn.net/zc21463071/article/details/81231058
+机器视觉基础知识汇总：https://blog.csdn.net/leoaran/article/details/80914270
+那些精贵的「机器视觉」学习资料总结:https://blog.csdn.net/Yong_Qi2015/article/details/80154773
+表情识别LDTP算法:https://blog.csdn.net/z349177893/article/details/86600254
+机器学习之——简单表情识别:https://blog.csdn.net/yxdd1gbk/article/details/79788967
+50个“杀手级”AI项目 !（附链接）:https://blog.csdn.net/tmb8z9vdm66wh68vx1/article/details/79372988
+一个完整机器学习项目流程总结：https://blog.csdn.net/huangfei711/article/details/79850989
+Scratch编程入门教案：https://blog.csdn.net/weixin_40897235/article/details/89206058
+基于SLAM的机器人的自主定位导航：https://blog.csdn.net/weixin_37251044/article/details/78515909
+python之常用算法：https://blog.csdn.net/u012114090/article/details/81516189
+open cv+C++错误及经验总结：https://blog.csdn.net/ningyaliuhebei/article/details/22385833
+本地费控与远程费控：https://blog.csdn.net/wuhenyouyuyouyu/article/details/77979112
+20个顶级大数据软件应用程序：https://blog.csdn.net/qq_16633405/article/details/79718325
+软件应用资源：https://download.csdn.net/download/mini_hs/10444585
+推荐给运维人员的10个开源漏洞检测工具！：https://blog.csdn.net/Z1XpIYDj9sn/article/details/88548637
+无线网络渗透测试（一）基础知识：https://blog.csdn.net/windy_hui/article/details/83016100
+网络渗透资料大全单——工具篇（上）：https://blog.csdn.net/gardentop/article/details/80140117
+Net基础全套视频教程：https://edu.csdn.net/course/detail/858
+Duilib—基础框架：https://blog.csdn.net/linjingtu/article/details/89843183
+网络安全（知识点总结分类）：https://blog.csdn.net/shakeyin1998/article/details/85544620
+网络安全学习指南：https://blog.csdn.net/qq_36402161/article/details/84035618
+硬件电路设计入门奉献系列（一）：https://blog.csdn.net/xiaohe511/article/details/59520514
+蓝牙音频音质探讨：https://blog.csdn.net/dear5240/article/details/80889083
+linux系统基本知识整理：https://blog.csdn.net/u011285477/article/details/90600501
+python实现的NoSql数据库系列-高级数据库操作：https://blog.csdn.net/qq_25055269/article/details/82731053
+最纯粹的直播技术实战01-FFmpeg的编译与运行：https://blog.csdn.net/u011485531/article/details/55804380
+人脸识别的流程：https://blog.csdn.net/briant_ccj/article/details/86167261
+可靠数据传输协议-Rdt协议：https://blog.csdn.net/hernofogot/article/details/88382944
+99%的人都会忽略的Python易错点总结：https://blog.csdn.net/varyshare/article/details/90202321
+数据融合技术原理与方法：https://blog.csdn.net/dujiahei/article/details/86670644
+平衡小车设计_1_系统组成：https://blog.csdn.net/floatinglong/article/details/92200665
+avizo使用：https://blog.csdn.net/u012526003/article/details/78668196
+三种二次开发的方式：https://blog.csdn.net/u013213317/article/details/80835028
+机器学习实例：文本挖掘和情感分析的基础示例：http://www.atyun.com/26241.html
+PowerBI最全可视化视图打包和DEMO汇总：https://blog.csdn.net/capsicum29/article/details/76427138
+DIY自动分类“错题集”：一种基于视觉词汇的文本分类法：https://blog.csdn.net/weixin_33835690/article/details/90001431
+Redis和消息队列使用实战：https://blog.csdn.net/uyninger/article/details/77489806
+微信小程序开发者工具详解：https://blog.csdn.net/hani_wen/article/details/82733694
+JASS速查手册：https://download.csdn.net/download/u010027950/10150150
+jass api详解：https://download.csdn.net/download/guduhupo/3070241
+Linux入门课程：https://edu.csdn.net/course/detail/5929
+linux使用入门教程：https://blog.csdn.net/xiaomu_347/article/details/80627647
+swing入门教程（一） swing简介：https://blog.csdn.net/alli0968/article/details/50637118
+ 
+Java
+ 
+Java工程师求职面试准备	
+https://blog.csdn.net/dyhdengyahui/article/details/79731335
+Java面试笔试题大汇总(最全+详细答案)	
+https://blog.csdn.net/weixin_37948564/article/details/80475243
+温故而知新，重温 Java 7 的那些“新”特性	
+https://blog.csdn.net/qing_gee/article/details/97623924
+查看JAVA API以及JAVA源码的方法	
+https://blog.csdn.net/Applying/article/details/80575616
+Java学习路线	
+https://blog.csdn.net/Just_learn_more/article/details/91394528
+【深入理解Java原理】 JVM 内存区域	
+https://blog.csdn.net/wangming520liwei/article/details/78686724
+阿里云Redis开发规范	
+https://blog.csdn.net/glx490676405/article/details/79580748
+数据结构与算法常见笔试题	
+https://blog.csdn.net/u010273362/article/details/77920891
+关键路径详解	
+https://blog.csdn.net/qq_35644234/article/details/52664108
+字符串一样，但是equals为false？	
+https://blog.csdn.net/Baisitao_/article/details/92667122
+Java十大常用框架介绍	
+https://blog.csdn.net/qinzzjs47/article/details/82292100
+JAVA学习必须掌握的框架，不看后悔	
+https://blog.csdn.net/jackyrongvip/article/details/82148922
+最棒的 JavaScript 学习指南	
+https://blog.csdn.net/ejinxian/article/details/79227762
+职业规划-IT方向	
+https://blog.csdn.net/weixin_44135121/article/details/93226590
+让应届生拿到阿里 Offer 的Java面试题	
+https://blog.csdn.net/CSDNedu/article/details/100098334
+《JavaScript面向对象精要》-第1、2章	
+https://blog.csdn.net/kjhz_liang/article/details/80438569
+《JavaScript面向对象精要》-第3、4章	
+https://blog.csdn.net/kjhz_liang/article/details/80439083
+《JavaScript面向对象精要》-第5章	
+https://blog.csdn.net/kjhz_liang/article/details/80447962
+《JavaScript面向对象精要》-第6章	
+https://blog.csdn.net/kjhz_liang/article/details/80462119
+ 
+大数据
+ 
+数据结构与算法常见笔试题	
+https://blog.csdn.net/u010273362/article/details/77920891
+关键路径详解	
+https://blog.csdn.net/qq_35644234/article/details/52664108
+MySQL数据库安装	
+https://blog.csdn.net/lfdfhl/article/details/96704304
+大数据学习路线图	
+https://blog.csdn.net/qq_38872310/article/details/79758426
+SQL简述	
+https://blog.csdn.net/lfdfhl/article/details/96707875
+数据库的基本操作	
+https://blog.csdn.net/lfdfhl/article/details/96709013
+数据类型详解	
+https://blog.csdn.net/lfdfhl/article/details/96711983
+数据中台架构详解	
+https://edu.csdn.net/course/detail/23975
+数据表的基本操作	
+https://blog.csdn.net/lfdfhl/article/details/96732873
+MySQL图形化操作工具	
+https://blog.csdn.net/lfdfhl/article/details/96742339
+表的约束	
+https://blog.csdn.net/lfdfhl/article/details/96746485
+插入数据	
+https://blog.csdn.net/lfdfhl/article/details/96771873
+更新数据	
+https://blog.csdn.net/lfdfhl/article/details/96780166
+删除数据	
+https://blog.csdn.net/lfdfhl/article/details/96782820
+简单查询	
+https://blog.csdn.net/lfdfhl/article/details/96834230
+函数	
+https://blog.csdn.net/lfdfhl/article/details/96839742
+条件查询	
+https://blog.csdn.net/lfdfhl/article/details/96893026
+别名	
+https://blog.csdn.net/lfdfhl/article/details/96975823
+Spark的Dataset操作(一)-列的选择select	
+https://blog.csdn.net/coding_hello/article/details/74853504
+表的关联关系	
+https://blog.csdn.net/lfdfhl/article/details/97026574
+子查询	
+https://blog.csdn.net/lfdfhl/article/details/97102580
+数据库事务及其隔离级别	
+https://blog.csdn.net/lfdfhl/article/details/97696879
+存储过程及游标使用	
+https://blog.csdn.net/lfdfhl/article/details/98085154
+大数据学习路线图	
+https://blog.csdn.net/volitationlong/article/details/82352856
+ 
+区块链
+ 
+以太坊学习笔记	
+https://blog.csdn.net/LUCKWXF/article/details/94736214
+以太坊工作原理	
+https://blog.csdn.net/LUCKWXF/article/details/95061570
+搭建以太坊私链	
+https://blog.csdn.net/zhimingshangyan/article/details/82703746
+Centos7 本地安装以太坊 Remix-ide	
+https://blog.csdn.net/LUCKWXF/article/details/95633329
+盘点11个常用的区块链开发工具	
+https://blog.csdn.net/Blockchain_lemon/article/details/98553602
+区块链100问	
+https://blog.csdn.net/zgf605506394/article/details/97621396
+以太坊私链的搭建和智能合约的部署	
+https://blog.csdn.net/sunniy27/article/details/78632294
+通过7个函数解密区块链	
+https://blog.csdn.net/tMb8Z9Vdm66wH68VX1/article/details/80416922
+从概念到底层技术，区块链一站式分析和汇总	
+https://blog.csdn.net/baiyuzhong2012/article/details/80125619
+一文看懂区块链架构设计	
+https://blog.csdn.net/lucky_greenegg/article/details/52821924
+搭建Facebook区块链Libra的开发环境	
+https://blog.csdn.net/BEYONDMA/article/details/96763280
+30天200万收入, 我是怎么做区块链游戏的	
+https://blog.csdn.net/Blockchain_lemon/article/details/99787975
+学霸用12个决策模型告诉你，如何判断你到底需不需要区块链！	
+https://blog.csdn.net/Blockchain_lemon/article/details/99907273
+17大主链均狂跌国内项目却看涨	
+https://blog.csdn.net/Blockchain_lemon/article/details/99687965
+区块链产业云图重磅发布	
+https://blog.csdn.net/Blockchain_lemon/article/details/86379649
+3大维度告诉你，为什么说比特币并非避险资产？	
+https://blog.csdn.net/Blockchain_lemon/article/details/94417985
+ 
+ 
+ 
+【综合干货】
+Android使用JNI生成.so文件并调用：https://blog.csdn.net/dream_caoyun/article/details/79495103
+利用百度AI开放平台进行本地图片通用文字识别：https://blog.csdn.net/qq_40197828/article/details/82812978
+这可能是最简单易懂的机器学习入门（小白必读）：https://blog.csdn.net/qq_28168421/article/details/81351321
+多分类学习的拆分策略：https://blog.csdn.net/u012679707/article/details/80527994
+机器学习概括：什么是机器学习，机器学习分类和基本用途：https://blog.csdn.net/u011626960/article/details/79349659
+机器学习:3个知乎大神回答、5个新人常见问题和3个学习规划：https://blog.csdn.net/j2IaYU7Y/article/details/79825304
+机器视觉专栏：https://blog.csdn.net/oHanTanYanYing/column/info/15631
+机器视觉原理解析：https://blog.csdn.net/zc21463071/article/details/81231058
+机器视觉基础知识汇总：https://blog.csdn.net/leoaran/article/details/80914270
+那些精贵的「机器视觉」学习资料总结:https://blog.csdn.net/Yong_Qi2015/article/details/80154773
+表情识别LDTP算法:https://blog.csdn.net/z349177893/article/details/86600254
+机器学习之——简单表情识别:https://blog.csdn.net/yxdd1gbk/article/details/79788967
+50个“杀手级”AI项目 !（附链接）:https://blog.csdn.net/tmb8z9vdm66wh68vx1/article/details/79372988
+一个完整机器学习项目流程总结：https://blog.csdn.net/huangfei711/article/details/79850989
+Scratch编程入门教案：https://blog.csdn.net/weixin_40897235/article/details/89206058
+基于SLAM的机器人的自主定位导航：https://blog.csdn.net/weixin_37251044/article/details/78515909
+python之常用算法：https://blog.csdn.net/u012114090/article/details/81516189
+open cv+C++错误及经验总结：https://blog.csdn.net/ningyaliuhebei/article/details/22385833
+本地费控与远程费控：https://blog.csdn.net/wuhenyouyuyouyu/article/details/77979112
+20个顶级大数据软件应用程序：https://blog.csdn.net/qq_16633405/article/details/79718325
+软件应用资源：https://download.csdn.net/download/mini_hs/10444585
+推荐给运维人员的10个开源漏洞检测工具！：https://blog.csdn.net/Z1XpIYDj9sn/article/details/88548637
+无线网络渗透测试（一）基础知识：https://blog.csdn.net/windy_hui/article/details/83016100
+网络渗透资料大全单——工具篇（上）：https://blog.csdn.net/gardentop/article/details/80140117
+Net基础全套视频教程：https://edu.csdn.net/course/detail/858
+Duilib—基础框架：https://blog.csdn.net/linjingtu/article/details/89843183
+网络安全（知识点总结分类）：https://blog.csdn.net/shakeyin1998/article/details/85544620
+网络安全学习指南：https://blog.csdn.net/qq_36402161/article/details/84035618
+硬件电路设计入门奉献系列（一）：https://blog.csdn.net/xiaohe511/article/details/59520514
+蓝牙音频音质探讨：https://blog.csdn.net/dear5240/article/details/80889083
+linux系统基本知识整理：https://blog.csdn.net/u011285477/article/details/90600501
+python实现的NoSql数据库系列-高级数据库操作：https://blog.csdn.net/qq_25055269/article/details/82731053
+最纯粹的直播技术实战01-FFmpeg的编译与运行：https://blog.csdn.net/u011485531/article/details/55804380
+人脸识别的流程：https://blog.csdn.net/briant_ccj/article/details/86167261
+可靠数据传输协议-Rdt协议：https://blog.csdn.net/hernofogot/article/details/88382944
+99%的人都会忽略的Python易错点总结：https://blog.csdn.net/varyshare/article/details/90202321
+数据融合技术原理与方法：https://blog.csdn.net/dujiahei/article/details/86670644
+平衡小车设计_1_系统组成：https://blog.csdn.net/floatinglong/article/details/92200665
+avizo使用：https://blog.csdn.net/u012526003/article/details/78668196
+三种二次开发的方式：https://blog.csdn.net/u013213317/article/details/80835028
+机器学习实例：文本挖掘和情感分析的基础示例：http://www.atyun.com/26241.html
+PowerBI最全可视化视图打包和DEMO汇总：https://blog.csdn.net/capsicum29/article/details/76427138
+DIY自动分类“错题集”：一种基于视觉词汇的文本分类法：https://blog.csdn.net/weixin_33835690/article/details/90001431
+Redis和消息队列使用实战：https://blog.csdn.net/uyninger/article/details/77489806
+微信小程序开发者工具详解：https://blog.csdn.net/hani_wen/article/details/82733694
+JASS速查手册：https://download.csdn.net/download/u010027950/10150150
+jass api详解：https://download.csdn.net/download/guduhupo/3070241
+Linux入门课程：https://edu.csdn.net/course/detail/5929
+linux使用入门教程：https://blog.csdn.net/xiaomu_347/article/details/80627647
+swing入门教程（一） swing简介：https://blog.csdn.net/alli0968/article/details/50637118
